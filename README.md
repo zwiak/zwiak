@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <a href="https://t.me/zwiak" target="_blank">@zwiak</a>
-- 👀 I’m interested in **fullstack dev, running**
+- 👀 I’m interested in **fullstack dev**
 - 🌱 I’m currently learning **web3**
 - 💞️ I’m looking to collaborate based on interests
 
